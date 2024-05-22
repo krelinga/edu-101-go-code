@@ -22,3 +22,6 @@
 
 # editor junk
 .*.swp
+
+# temporal sqlite data.
+cluster.db
